@@ -58,9 +58,3 @@ A 5th-semester student majoring in Information Systems from National University.
 <br />
 
 ---
-### Connect with me:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abijabhdn_#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abijabhdn_#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/abijabohdanprasetio#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/abijabohdanprasetio#gh-dark-mode-only)
