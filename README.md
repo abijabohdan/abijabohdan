@@ -64,7 +64,3 @@ A 5th-semester student majoring in Information Systems from National University.
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/abijabohdanprasetio#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/abijabohdanprasetio#gh-dark-mode-only)
-
-
-
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
