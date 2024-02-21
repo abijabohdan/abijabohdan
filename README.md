@@ -27,9 +27,11 @@ A 5th-semester student majoring in Information Systems from National University.
 
 ## Education:
 
-#### 1. Nasional University | South Jakarta `Sep 2021 - May 2025`
+#### 1. Studi Independen MSIB Batch 6 | Sekolah.mu | South Jakarta `Feb 2024 - June 2024`
+   - Certificate of Data Analyst
+#### 2. Nasional University | South Jakarta `Sep 2021 - May 2025`
    - Bachelor of Information Systems | 3.84/4.00
-#### 2. Al Hidayah Lestari | South Jakarta `Sep 2018 - Jun 2021`
+#### 3. Al Hidayah Lestari | South Jakarta `Sep 2018 - Jun 2021`
    - Vocational High School of Computer Network and Engineering | 88/100
 ---
 
