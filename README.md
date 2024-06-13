@@ -2,7 +2,16 @@
 
 ## About me:
 
-A 5th-semester student majoring in Information Systems from National University. Has aspirations to work in the field of Data Analyst, has work experience, internships, and organizations. able to process data and visualize data, master spreadsheet tools such as Microsoft Excel and Google Sheets, master programming languages such as Python and SQL, and master visualization tools such as Looker Studio and Power BI.
+Passionate about transforming data into actionable insights and driving data-driven decision-making. As a Data Analyst, I excel at uncovering patterns and trends to make informed decisions.
+
+My career goal is to become a leading expert in data analysis. What sets me apart is my analytical mindset, attention to detail, and ability to communicate complex data findings. My recent experience as a Data Analyst at PT Aino Indonesia involved creating dashboards and data visualizations and providing feedback to supervisors on data processing, trend analysis, and conclusions based on findings. Additionally, I am currently participating in the Independent Study program at Karier.mu, where I am learning about data analysis, including business context, SQL, Python, and data visualization in Tableau.
+
+Hard Skills and Soft Skills:
+• Technical Proficiency: Skilled in data analysis tools and programming languages such as Spreadsheet, Python, SQL, Tableau, and Looker Studio.
+• Non-technical proficiency: Proficient in storytelling, decision-making, and critical analysis.
+Let's Connect:
+
+I am always open to new opportunities and collaborations. Feel free to connect with me here on LinkedIn or reach out to me directly at @abijabhdn. I look forward to discussing how we can work together to achieve great things.
 
 ---
 
