@@ -2,14 +2,11 @@
 
 ## About me:
 
-Passionate about transforming data into actionable insights and driving data-driven decision-making. As a Data Analyst, I excel at uncovering patterns and trends to make informed decisions.
+I'm a passionate and driven Data Analyst with a strong foundation in data analysis, machine learning, and data visualization. Currently pursuing a degree in Information Systems at University of Nasional, I have developed a deep understanding of how to leverage data to derive meaningful insights and support business decision-making.
 
-My career goal is to become a leading expert in data analysis. What sets me apart is my analytical mindset, attention to detail, and ability to communicate complex data findings. My recent experience as a Data Analyst at PT Aino Indonesia involved creating dashboards and data visualizations and providing feedback to supervisors on data processing, trend analysis, and conclusions based on findings. Additionally, I am currently participating in the Independent Study program at Karier.mu, where I am learning about data analysis, including business context, SQL, Python, and data visualization in Tableau.
+Throughout my academic and internship experiences, I've honed my skills in Python, SQL, Spreadsheets tools, Tableau, and Looker Studio. I've utilized these tools to analyze complex datasets, create predictive models, and visualize data effectively. My projects range from analyzing customer behavior to developing dashboards that communicate insights clearly and compellingly.
 
-Hard Skills and Soft Skills:
-• Technical Proficiency: Skilled in data analysis tools and programming languages such as Spreadsheet, Python, SQL, Tableau, and Looker Studio.
-• Non-technical proficiency: Proficient in storytelling, decision-making, and critical analysis.
-Let's Connect:
+I'm particularly interested in roles that allow me to apply my analytical skills to solve real-world problems and contribute to data-driven strategies. Whether it's through exploratory data analysis, predictive modeling, or creating insightful dashboards, I am dedicated to delivering results that drive business growth.
 
 I am always open to new opportunities and collaborations. Feel free to connect with me here on LinkedIn or reach out to me directly at @abijabhdn. I look forward to discussing how we can work together to achieve great things.
 
